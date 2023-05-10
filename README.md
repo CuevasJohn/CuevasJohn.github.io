@@ -9,13 +9,18 @@ My github page is http://github.com/CuevasJohn
 ### CPSC 120
 
 * Lab 1  
-Lab 1 is one of my favorite labs because we wroked with a partner for the first time in a coding envirement. I know it wasn't much 
-but even learning how to work woth others is something I liked learning. We printed out "Hello World" and I felt so accomplished 
+       Lab 1 is one of my favorite labs because we wroked with a partner for the first time in a coding envirement. I know it wasn't much 
+but even learning how to work with others is something I liked learning. We printed out "Hello World" and I felt so accomplished 
 from that little line.  
 
 ---  
 
 * Lab 8 Part 2  
-   -dj
+        Lab 8 part 2 is another favorite of mine because we made a program that checks if numbers are prime or not. I never never knew hoe much coding goes into something that sounds so simple. We did get stuck at some point but we ended up getting through it. What surprised me was that the program worked on the first try. Nothing better than getting it right the first time.  
+   
+---  
+
+* Lab 
+
     
 
