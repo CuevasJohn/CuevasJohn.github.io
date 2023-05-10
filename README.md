@@ -20,7 +20,8 @@ from that little line.
    
 ---  
 
-* Lab 
+* Lab 12 Part 1
+Finally lab 12 part 1 is my favorite out of all these other labs because we create a gif of a gradient sqaure thats constantly changing colors and moving. It's crazy to create that using c++. I never knew you could make a gif in c++. Every lab I learn something new and this lab made me realize that technology has come a long way.
 
     
 
