@@ -13,6 +13,9 @@ Lab 1 is one of my favorite labs because we wroked with a partner for the first 
 but even learning how to work woth others is something I liked learning. We printed out "Hello World" and I felt so accomplished 
 from that little line.  
 
----
+---  
+
+* Lab 8 Part 2  
+   -dj
     
 
